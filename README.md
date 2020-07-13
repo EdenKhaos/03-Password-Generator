@@ -12,7 +12,7 @@ Issues & Explanation:
      https://github.com/EdenKhaos/wk3-homework/edit/master/README.md
 
 ```
-## Narrative to tried to accomplish:
+## Narrative to try to accomplish:
 
 1. Created an application that generates a random password based on user-selected criteria. 
 2. This app runs in the browser and feature dynamically updated HTML and CSS powered by my JavaScript code.
@@ -33,19 +33,19 @@ Overall lots of google-foo used to find pieces of code that might work plus the 
 
 ```
 
-## Psuedo code for html
+## Pseudo code for html
 
 ```
 1. No changes made(generally already set up for use on multiple media platforms and follows given homework assets image, could be cleaned up a bit(time constraint)
 
 ```
-## Psuedo code for css
+## Pseudo code for css
 
 ```
 1. No changes made(generally already set up for overall look, setup and follows given homework assets image)
 
 ```
-## Psuedo code for js
+## Pseudo code for js
 
 ```
 1. Assignment Code
