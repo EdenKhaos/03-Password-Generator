@@ -1,15 +1,15 @@
-# wk3-homework
+# 03-Password-Generator
 
 ## Links:
 ```
 Live Site: 
-     https://EdenKhaos.github.io/wk3-homework/
+     https://edenkhaos.github.io/03-Password-Generator/
    
 Code Repo: 
-     https://github.com/EdenKhaos/wk3-homework 
+     https://github.com/EdenKhaos/03-Password-Generator
   
 Issues & Explanation:
-     https://github.com/EdenKhaos/wk3-homework/edit/master/README.md
+     https://github.com/EdenKhaos/03-Password-Generator/edit/master/README.md
 
 ```
 ## Narrative to try to accomplish:
